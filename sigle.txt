@@ -1,0 +1,23 @@
+type_school: ToS ->  Academic - Vocational
+
+school_accreditation: Acc -> A - B
+
+interest: Int -> Not Interested
+		 Less Interested
+		 Uncertain
+		 Interested
+		 Very Interested
+
+residence: Res -> Rural - Urban
+
+parent_age: Age -> 40 45 - 45 50 - 50 55 - 55 60 - 60 65
+
+parent_salary: Sal -> High - Low - Medium
+
+house_area: Har -> Big - Medium - Small
+
+average_grades: Avg -> 75 85 - 85 95 - 95+
+
+parent_was_in_college: Pic -> 1 - 0
+
+will_go_to_college: Gtc -> 1 - 0
